@@ -1,7 +1,9 @@
-<!Doctype html>
-<html lang="en">
-  <head>
-  <link href="//cdn.syncfusion.com/ej2/ej2-base/styles/material.css" rel="stylesheet" />
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+ <link href="//cdn.syncfusion.com/ej2/ej2-base/styles/material.css" rel="stylesheet" />
     <link href="//cdn.syncfusion.com/ej2/ej2-buttons/styles/material.css" rel="stylesheet" />
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
@@ -14,10 +16,9 @@
   <title>SAVORKA</title> 
   <!--for css file here make style block than make css-->
  <link rel="stylesheet" href="style.css"/>
-  </head>
+</head>
 <body>
-  
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+ <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
  <div class="container-fluid" >
    
     <a class="navbar-brand" href="">
@@ -85,5 +86,4 @@
         <a class="e-btn e-link sf-icon-telephone" href="tel:+91-7017774339">+91-7017774339</a>
     </div>
 </body>
-
 </html>
